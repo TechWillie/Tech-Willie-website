@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(rgb(111, 123, 135), rgb(241, 201, 153));
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+.top-Bar{
+    position: fixed;
+    top: 1px;
+    width: 100vw;
+    backdrop-filter: blur(7px);
+}
+.top-time-Bar{
+    position: fixed;
+    top: 35px;
+    right: 1px;
+    backdrop-filter: blur(7px);
+}
+main{
+    margin-top: 70px;
+    max-height: 200px;
+    border-style: double;
+    border-color: black;
+
+
+}
+
+div1{
+
+    font-size: x-large;
+    display: flex;
+}
+
+.will-World{
+    position: fixed;
+    top: 0;
+    backdrop-filter: blur(7px);
+
+}
+h2{
+    border-top-color: black;
+    border-bottom-color: yellow;
+    border-style: double;
+    display: flex;
+    justify-content:space-around;
+    position: relative;
+    margin-top: 1px;
+
+}
+.slogin{
+    position: fixed;
+    bottom: 33px;
+    font-size: large;
+    right: 1px;
+    border-top: rgb(225, 183, 31);
+    border-style: groove;
+    backdrop-filter: blur(7px);
+
+
+}
+h5{
+    border-bottom-color: black;
+    border-top-color: yellow;
+    border-style: double;
+    font-size: larger;
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    display: flex;
+    justify-content:space-around;
+    backdrop-filter: blur(7px);
+}
+p2{
+    font-size: larger;
+}
