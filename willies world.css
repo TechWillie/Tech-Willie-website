@@ -16,12 +16,7 @@ body{
     backdrop-filter: blur(7px);
 }
 main{
-    margin-top: 70px;
-    max-height: 200px;
-    border-style: double;
-    border-color: black;
-
-
+    margin-top: 75px;
 }
 
 div1{
